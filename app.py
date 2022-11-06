@@ -48,6 +48,7 @@ video_title_temp ="abcfdfdf123"
 
 
 output_directory = os.getcwd()
+st.text("OPFP " + output_directory)
 
   
 
