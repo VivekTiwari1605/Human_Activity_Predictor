@@ -47,7 +47,7 @@ video_title_temp ="abcfdfdf123"
 #      return filename_with_timestamp
 
 
-output_directory = "E:\College And Extra Work\SEM 7\AI & DS 2\MINI PROJECT"
+output_directory = os.getcwd()
 
   
 
