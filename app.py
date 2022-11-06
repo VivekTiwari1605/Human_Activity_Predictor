@@ -69,7 +69,7 @@ def download_youtube_videos(youtube_video_url, output_directory):
         # Constructing the Output File Path
         output_file_path = f'{output_directory}/{video_title_temp}.mp4'
 
-        print("OPFP " + output_file_path)
+        st.text("OPFP " + output_file_path)
         print("VTT : "  + video_title_temp)
 
         # Downloading the youtube video at the best available quality.
