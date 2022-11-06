@@ -47,7 +47,7 @@ video_title_temp ="abcfdfdf123"
 #      return filename_with_timestamp
 
 
-output_directory = /app/human_activity_predictor
+output_directory = "/app/human_activity_predictor"
 st.text("OPFP " + output_directory)
 
   
