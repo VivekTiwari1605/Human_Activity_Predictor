@@ -48,14 +48,9 @@ video_title_temp ="abcfdfdf123"
 
 
 output_directory = "/app/human_activity_predictor"
-st.text("OPFP " + output_directory)
+
 
   
-
-
-
-
-
 def download_youtube_videos(youtube_video_url, output_directory):
     try:
         
